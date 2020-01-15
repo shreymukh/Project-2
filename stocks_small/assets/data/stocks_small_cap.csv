@@ -1,0 +1,200 @@
+Symbol,Name,Stock_Price,Volume,Change,Pc_change
+GME,Gamestop Corp,5.9,11041200,0.5,0.09
+SPPI,Spectrum Pharma Inc,3.54,9747900,0.04,0.01
+FLXN,Flexion Therapeutics,20.94,9115000,1.77,0.09
+PLUG,Plug Power Inc,3.08,8408100,-0.07,-0.02
+SPCE,Virgin Galactic Holdings Inc,11.56,6855500,0.66,0.06
+WLL,Whiting Petroleum Corp,6.81,6488900,-0.27,-0.04
+MNK,Mallinckrodt Plc,3.45,6354700,-0.11,-0.03
+NOG,Northern Oil and Gas,2.35,6181500,-0.04,-0.02
+WLH,William Lyon Homes,20,5439300,0.2,0.01
+AR,Antero Resources Corp,2.7,5329600,-0.19,-0.07
+TXMD,Therapeuticsmd Inc,2.41,4480400,-0.05,-0.02
+GPRO,Gopro Inc Cl A,4.3,4324700,0.11,0.03
+IMGN,Immunogen Inc,5.12,4295500,-0.68,-0.12
+APPS,Digital Turbine,7.4,4056300,-0.68,-0.08
+GPOR,Gulfport Energy Corp,2.93,4049100,-0.22,-0.07
+I,Intelsat S.A.,6.87,3928800,0.09,0.01
+AMC,Amc Entertainment Holdings Inc,7.3,3911500,-0.04,-0.01
+LPI,Laredo Petroleum Holdings Inc,2.77,3715300,-0.09,-0.03
+CLVS,Clovis Oncology Inc,11.15,3617200,-0.27,-0.02
+OGI,Organigram Hlds Inc,2.35,3610300,0.01,0
+DO,Diamond Offshore Drilling,6.77,3293500,-0.03,0
+NAT,Nordic American Tanker Shipping Ltd,4.82,3110400,-0.22,-0.04
+EXK,Endeavour Silver Corp,2.34,3071700,-0.05,-0.02
+SUPV,Grupo Supervielle S.A.,3.94,2876900,-0.24,-0.06
+BE,Bloom Energy Corp Cl A,6.37,2792900,-0.13,-0.02
+FSM,Fortuna Silver Mines,3.96,2714700,-0.06,-0.01
+EROS,Eros International Plc,3.18,2691500,-0.05,-0.02
+CHS,Chico's Fas,3.81,2582000,-0.17,-0.04
+SRCI,Src Energy Inc,4.01,2564100,-0.09,-0.02
+PBI,Pitney Bowes Inc,3.94,2478300,-0.07,-0.02
+CRC,California Resources Corp,9.14,2377500,-0.3,-0.03
+ZIOP,Ziopharm Oncology IN,5.15,2343800,0.2,0.04
+SRNE,Sorrento Therpt,3.36,2310700,0.09,0.03
+WPG,Washington Prime Group Inc,3.54,2252700,-0.01,0
+WTI,W&T Offshore,5.39,2251000,-0.27,-0.05
+DVAX,Dynavax Technologies,5.99,2013700,-0.02,0
+FINV,Finvolution Group,2.46,1986100,0.06,0.03
+TRUE,Truecar Inc,4.61,1967300,0.01,0
+FBM,Foundation Building Materials Inc,20.21,1949700,1.3,0.07
+DRRX,Durect Corp,3.26,1938100,-0.01,0
+CPRX,Catalyst Pharm Inc,3.76,1931500,-0.1,-0.03
+ACHN,Achillion Pharmaceuticals,6.07,1788500,-0.07,-0.01
+BDSI,Biodelivery Sci Intl,6.6,1776000,-0.46,-0.07
+JMIA,Jumia Technologies Ag ADR,6.13,1725000,0.35,0.06
+BCRX,Biocryst Pharma Inc,3.12,1630000,-0.05,-0.02
+MAXR,Maxar Technologies Ltd,14.29,1605900,-0.25,-0.02
+GLUU,Glu Mobile Inc,5.98,1604500,-0.05,-0.01
+HOME,At Home Group Inc,5.49,1539300,0.02,0
+SGMO,Sangamo Therapeutics,8.36,1512600,-0.17,-0.02
+INO,Inovio Pharma,3.34,1481000,-0.21,-0.06
+NK,Nantkwest Inc CS,3.74,1434100,-0.07,-0.02
+SVM,Silvercorp Metals Inc,5.64,1421100,-0.15,-0.03
+DPLO,Diplomat Pharmacy Inc,3.96,1376800,-0.01,0
+INSG,Inseego Corp,7.11,1362700,-0.1,-0.01
+AOBC,American Outdoor Brands Corp,9.21,1351400,-0.01,0
+VRAY,Viewray Inc,4.29,1310700,-0.16,-0.04
+PBYI,Puma Biotechnology,8.66,1290100,-0.19,-0.02
+ADVM,Adverum Biotechnlgs,11.21,1289800,-1.01,-0.08
+GOGO,Gogo Inc,6.26,1289500,-0.22,-0.03
+SILV,Silvercrest Metals Inc,6.87,1289000,-0.65,-0.09
+RUHN,Ruhnn Holding Ltd ADR,6.96,1280500,0.04,0.01
+BTU,Peabody Energy Corp,9.54,1260700,0.2,0.02
+GCI,Gannett Co. Inc.,6.2,1232800,-0.07,-0.01
+HIIQ,Health Insurance Inn,18.57,1224400,-1.18,-0.06
+VKTX,Viking Thera,8.33,1202100,-0.36,-0.04
+LXRX,Lexicon Pharmaceutcl,4.26,1189700,0.15,0.04
+EVH,Evolent Health Inc Cl A Com,8.85,1188000,0.1,0.01
+VFF,Village Farms Intl,6.26,1164700,0.46,0.08
+SPWH,Sportsman's Wareh,8.04,1158500,-0.22,-0.03
+XON,Intrexon Corp,5.74,1149100,-0.32,-0.05
+EXPR,Express Inc,4.78,1136300,-0.15,-0.03
+KDMN,Kadmon Holdings Llc,4.78,1120000,-0.14,-0.03
+SLCA,U.S. Silica Holdings Inc,6.08,1110700,-0.03,0
+OMI,Owens & Minor,5.08,1108700,0.01,0
+CEPU,Central Puerto S.A. ADR,5.01,1101100,-0.48,-0.09
+CRCM,Care.com Inc,14.93,1074600,-0.02,0
+DERM,Dermira Inc,14.55,1061400,-0.37,-0.02
+PRVB,Provention Bio Inc,14.38,1037600,-0.28,-0.02
+NLTX,Neoleukin Therapeutics Inc,12.18,1031400,0.52,0.04
+UNFI,United Nat Foods,8.38,1019900,-0.25,-0.03
+APTO,Aptose Bioscns,5.35,1017800,-0.25,-0.04
+TEN,Tenneco Automotive,12.9,950800,-0.49,-0.04
+CONN,Conn's Inc,12.31,910900,-0.08,-0.01
+STAR,Istar Financial Inc,14.39,901200,0.3,0.02
+FNKO,Funko Inc Cl A,16.88,897000,0.37,0.02
+ISEE,Iveric Bio Inc,7.74,889400,0.32,0.04
+JNCE,Jounce Therapeutics Inc,8.42,885200,-0.39,-0.04
+FOSL,Fossil Group,7.74,885000,0.05,0.01
+AKBA,Akebia Therapeutics,6.52,870800,-0.21,-0.03
+LCI,Lannett Co. Inc,8.62,835800,-0.48,-0.05
+LL,Lumber Liquidators Holdings Inc,9.92,823900,-0.07,-0.01
+CENX,Century Aluminum C,7.4,819400,-0.08,-0.01
+WVE,Wave Life Sci Ord Sh,15.81,818100,-0.32,-0.02
+GSAH,GS Acquisition Holdings Corp Cl A,10.94,809800,0.02,0
+ORC,Orchid Island Capital Inc,5.96,808900,-0.02,0
+CBB,Cincinnati Bell Inc,10.52,805700,0,0
+DTIL,Precision Biosciences Inc,14.05,784200,-0.68,-0.05
+ATRA,Atara Biotherap,16.51,762900,0.51,0.03
+XPER,Xperi Corp,18.37,758900,-0.34,-0.02
+DBD,Diebold Nixdorf Inc,10.95,721100,-0.34,-0.03
+TUP,Tupperware Corp,8.22,681400,-0.06,-0.01
+EXTR,Extreme Networks,7.37,658200,-0.09,-0.01
+RUBI,The Rubicon Project Inc,8.38,641000,-0.22,-0.03
+PACK,Ranpak Holdings Corp,8.19,618600,-0.01,0
+CARA,Cara Therapeutics,16.61,582800,0.1,0.01
+PLCE,Children's Place Inc,62.07,572000,-1.53,-0.02
+ELF,E.L.F. Beauty Inc,15.96,568400,0.22,0.01
+CDNA,Caredx Inc,21.45,551100,-0.93,-0.04
+GTT,Global Telcom & Technology Inc,10.21,530700,0.5,0.05
+RDUS,Radius Health,20.98,526600,-0.08,0
+TNK,Teekay Tankers Ltd,23.06,513500,-0.64,-0.03
+XENT,Intersect Ent Inc,24.89,511100,0.31,0.01
+ECHO,Echo Global Logistic,21.01,506000,0.15,0.01
+PHR,Phreesia Inc,26.39,497400,-0.07,0
+WIFI,Boingo Wireless Inc,10.87,487200,-0.59,-0.05
+CYTK,Cytokinetics,10.29,482100,0.02,0
+VCEL,Vericel Corproation,17.45,481200,-0.29,-0.02
+HARP,Harpoon Therapeutics Inc,16.95,480800,-1.65,-0.09
+EOLS,Evolus Inc,11.89,474600,-0.27,-0.02
+WMC,Western Asset Mortgage Capital,10.5,471000,-0.19,-0.02
+COLL,Collegium Pharma,20.97,464700,0.62,0.03
+CRNC,Cerence Inc,20.97,462400,-0.3,-0.01
+WAAS,Aquaventure Holdings Ltd,27.11,455500,-0.2,-0.01
+RUBY,Rubius Therapeutics Inc,11.54,455100,-0.27,-0.02
+DBVT,Dbv Technologies Ads,10.8,450900,0.36,0.03
+ANAB,Anaptysbio Inc,16.76,445600,-0.23,-0.01
+CGBD,Tcg Bdc Inc,14.15,440500,0,0
+CDZI,Cadiz Inc,11.1,437300,0,0
+RC,Ready Capital Corp,15.76,432100,0.02,0
+AXNX,Axonics Modulation Technologies Inc,26.77,431200,-0.21,-0.01
+IIPR,Innovative Industrial Properties,75.34,427600,-3.01,-0.04
+GMRE,Global Medical REIT Inc,12.92,427000,-0.16,-0.01
+GPRE,Green Plains Inc,15.28,420900,-0.29,-0.02
+ASMB,Assembly Biosciences,20.93,413600,-0.52,-0.02
+HIBB,Hibbett Sports Inc,27.1,391700,-0.32,-0.01
+MITT,Ag Mortgage Investment Trust,15.99,385700,0.03,0
+AXGN,Axogen Inc,18.6,384100,0.37,0.02
+CDXS,Codexis Inc,17.06,379500,0.24,0.01
+NTLA,Intellia Thera CS,15.38,377500,-0.46,-0.03
+FLGT,Fulgent Genetics Inc,13.24,376300,-1.25,-0.09
+RVNC,Revance Therapeutics,16.31,375400,-0.09,-0.01
+TVTY,Tivity Health,19.51,359600,0.12,0.01
+BRBR,Bellring Brands Inc Cl A,22.99,352500,-0.83,-0.03
+SGRY,Surgery Partners CS,15.52,325000,-0.05,0
+EBIX,Ebix Inc,32.65,316600,0.18,0.01
+VNDA,Vanda Pharmaceuticals,16.75,313900,-0.37,-0.02
+EVER,Everquote Inc Cl A,34.76,313100,-1.7,-0.05
+ZUMZ,Zumiez Inc,32.67,312000,-0.47,-0.01
+DOMO,Domo Inc Cl B,22.98,308000,-0.16,-0.01
+CAL,Caleres Inc,23.57,307100,-0.04,0
+CYRX,Cryoport Inc,16.23,305500,-0.15,-0.01
+TPIC,Tpi Composites Inc,18.48,303600,-0.49,-0.03
+LE,Lands' End Inc,17.55,299600,-0.75,-0.04
+NX,Quanex Building Products Corp,17.3,280800,-0.23,-0.01
+ICHR,Ichor Holdings Ltd,33.85,276400,-0.5,-0.01
+PNTG,The Pennant Group Inc,32.18,272400,-2.6,-0.07
+CSTL,Castle Biosciences Inc,33.99,272000,5.4,0.19
+BNFT,Benefitfocus,22.17,271100,-0.17,-0.01
+BJRI,Bj's Restaurants Inc,37.42,266600,-0.07,0
+UCTT,Ultra Clean Holdings,23.4,261700,-0.52,-0.02
+ATRO,Astronics Cp,28.22,259000,-0.08,0
+SLP,Simulations Plus Inc,32.84,258200,-2.73,-0.08
+AVRO,Avrobio Inc,19.58,255000,-0.21,-0.01
+GCO,Genesco Inc,48.2,252100,-1.06,-0.02
+CCS,Century Communities Inc,27.27,250400,-0.01,0
+LNTH,Lantheus Holdings,20.27,247900,-0.29,-0.01
+RRGB,Red Robin Gourmet Burgers Inc,31.03,246200,0.8,0.03
+COHU,Cohu Inc,22.3,246000,0.03,0
+RYTM,Rhythm Pharmaceuticals Inc,22.98,244100,0.47,0.02
+MIRM,Mirum Pharmaceuticals Inc,25.9,238100,0.72,0.03
+PI,Impinj Inc,26.65,237100,-0.43,-0.02
+FIXX,Homology Medicines Inc,21.59,234700,-0.26,-0.01
+AMBC,Ambac Financial Group,21.55,234300,0.05,0
+TWST,Twist Bioscience Corp,22.04,227100,-0.86,-0.04
+SGH,Smart Global Holdings Inc,38.11,227100,-0.38,-0.01
+FVRR,Fiverr International Ltd,24.99,226600,1.6,0.07
+BOOM,Dynamic Materials,44.78,225600,-0.37,-0.01
+APOG,Apogee Entrpr Inc,32.48,224600,-0.06,0
+PETS,Petmed Express Inc,23.14,222900,0.08,0
+NTGR,Netgear Inc,24.5,222300,-0.03,0
+PETQ,Petiq Inc Cl A,24.94,206700,-0.22,-0.01
+WLKP,Westlake Chemical Partners LP,25.7,203400,0.27,0.01
+IPHS,Innophos Hlds Inc,31.94,197800,-0.02,0
+PAR,Par Technology Corp,30.94,192300,-0.26,-0.01
+FARO,Faro Tech Inc,50.45,191200,-0.32,-0.01
+NSTG,Nanostring Tech,27.93,174100,-0.03,0
+SRI,Stoneridge Inc,29.66,170600,0.05,0
+CPS,Cooper Std Hld Inc,32.42,158700,-0.47,-0.01
+NVEE,Nv5 Global,48.31,151400,-0.63,-0.01
+SCVL,Shoe Carnival Inc,36.86,146300,-0.16,0
+ANIK,Anika Therapeutics,52.83,142500,-0.16,0
+GSHD,Goosehead Insurance Inc Cl A,42.13,138100,0.71,0.02
+EGRX,Eagle Pharmaceuticals,59.96,129700,-0.16,0
+STC,Stewart Information Services Corp,41.36,128900,0.3,0.01
+KIDS,Orthopediatrics Corp,46.5,104200,0.68,0.01
+APRE,Aprea Therapeutics Inc,49.53,102700,2.09,0.04
+PFBC,Preferred Bank LA,59.82,95700,-0.18,0
+WRLD,World Acceptance Cp,85.91,84600,-0.41,0
+CRMT,America's Car-Mart,108.64,63600,0.7,0.01
